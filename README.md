@@ -26,5 +26,6 @@ Por lo tanto, en este README, solo presentaré mis proyectos más relevantes.
 ## Mis tecnologías
 | Lenguaje de programación | Frameworks        | Backend   |
 |--------------------------|-------------------|-----------|
-| Javascript               | React, Astro     | Node.js   |
+| Javascript               | React             | Node.js   |
+|                          | Astro             |           |
 | Typescript               | Angular (conocimientos) | MongoDB   |
