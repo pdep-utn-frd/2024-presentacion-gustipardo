@@ -1,7 +1,7 @@
 
 # Gustavo Martin Alvarez
 Hola, mi nombre es Gustavo, aprovecho que hace poco hice mi descripción de Github para usarla acá.
- ![hello world](https://tenor.com/embed/10598764531210485569)
+
 
 Soy estudiante de Ingeniería en Sistemas de Información en UTN FRB.
 También soy técnico electromecánico.
