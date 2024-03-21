@@ -2,8 +2,7 @@
 # Gustavo Martin Alvarez
 Hola, mi nombre es Gustavo, aprovecho que hace poco hice mi descripción de Github para usarla acá.
 
-![hello world](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fcodefactory-hello-world-f5ae4ed545d2&psig=AOvVaw1ZOpOosep-tbxh2byoncET&ust=1711146685875000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDNnqm0hoUDFQAAAAAdAAAAABAE)
-
+![hello world](https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg)
 Soy estudiante de Ingeniería en Sistemas de Información en UTN FRB.
 También soy técnico electromecánico.
 
