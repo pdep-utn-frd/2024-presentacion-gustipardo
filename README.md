@@ -24,8 +24,7 @@ Por lo tanto, en este README, solo presentaré mis proyectos más relevantes.
   Página de inicio para una empresa de construcción ubicada en Argentina. Presentación de la empresa, muestra de obras completadas e información de contacto.
 
 ## Mis tecnologías
-Lenguaje de programación: Javascript/Typescript
-
-Frameworks: React y Astro, con conocimientos en Angular
-
-Backend: Nodejs, MongoDB
+| Lenguaje de programación | Frameworks        | Backend   |
+|--------------------------|-------------------|-----------|
+| Javascript               | React, Astro     | Node.js   |
+| Typescript               | Angular (conocimientos) | MongoDB   |
